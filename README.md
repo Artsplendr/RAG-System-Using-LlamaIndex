@@ -19,3 +19,5 @@ This system enables offline, cost-efficient, and private retrieval-augmented gen
 
 # References
 This project is based on the course "Building Your first RAG System using LlamaIndex" by Prashant Sahu / Analytics Vidhya and is available at the following [link](https://www.google.com/url?q=https%3A%2F%2Fcourses.analyticsvidhya.com%2Fcourses%2Fbuilding-your-first-rag-system-free-course).
+
+## If you found this repository helpful, drop it a &#11088; :)!
