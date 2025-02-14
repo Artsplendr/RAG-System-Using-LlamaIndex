@@ -18,4 +18,4 @@ This project implements a Retrieval-Augmented Generation (RAG) system, based on 
 This system enables offline, cost-efficient, and private retrieval-augmented generation without relying on cloud-based models like OpenAI’s GPT-4. However, the speed of generating a response is quite slow.
 
 # References
-This project is based on the course "Building Your first RAG System using LlamaIndex" by Prashant Sahu / Analytics Vidhya and is available at the folowing [link](https://www.google.com/url?q=https%3A%2F%2Fcourses.analyticsvidhya.com%2Fcourses%2Fbuilding-your-first-rag-system-free-course).
+This project is based on the course "Building Your first RAG System using LlamaIndex" by Prashant Sahu / Analytics Vidhya and is available at the following [link](https://www.google.com/url?q=https%3A%2F%2Fcourses.analyticsvidhya.com%2Fcourses%2Fbuilding-your-first-rag-system-free-course).
